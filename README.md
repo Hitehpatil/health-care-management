@@ -22,3 +22,13 @@ npx tailwindcss init -p
 
 # paste the provided code in index.js
 # run the program: npm start
+
+
+images:
+![image](https://github.com/user-attachments/assets/7957f4f1-2a1e-4ad0-8191-2df5d0ea866d)
+![image](https://github.com/user-attachments/assets/3a87074e-8635-4aaa-a292-ea3deddbe5f4)
+![image](https://github.com/user-attachments/assets/bc92c59c-78d6-4c77-ab14-81049c38cf7d)
+
+
+
+
